@@ -1,1 +1,0 @@
-This file has been created on 1st September 2025 to test how to push new contents from a checkout branch as working copy of the main, into the main.
