@@ -2,3 +2,4 @@ This is the first row af this file created on 28 Aug 2025: change02
 Added this new row as changed03
 Added the whole file to a new repoitory in GitHub (web)
 Added this row on 29 August as change 06
+dded row on 1st September change 07
